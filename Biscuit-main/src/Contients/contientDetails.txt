@@ -1,0 +1,16 @@
+@Africa
+South Africa [Madagascar, Congo, East Africa]
+Madagascar [South Africa, East Africa]
+Congo [South Africa, East Africa, North Africa]
+East Africa [South Africa, Congo, Egypt] & [Asia.Middel East]
+Egypt [East Africa, North Africa] & [Europe.Southern Europe, Asia.Middle East]
+North Africa[Egypt, East Africa, Congo] & [SouthAmerica.Brazil]
+#
+@Europe
+
+
+#
+@America
+
+@Aisa
+...
